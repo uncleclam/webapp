@@ -1,4 +1,3 @@
-
 #!/bin/sh
 
  curl -L --get https://api.serpwow.com/search \
