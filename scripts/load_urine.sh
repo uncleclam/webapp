@@ -10,10 +10,10 @@
         -o urination.json 
 
 #PARSE JSON AND EXPORT CSV
-python python/piss.py
+python python/yellow_snow.py
 
 #LOAD CSV TO MYSQL
-./mysql_load.sh
+#./mysql_load.sh
 
 #DELETE TEMP FILES
 #sudo rm urination.json
