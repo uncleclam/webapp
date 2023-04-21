@@ -1,0 +1,46 @@
+sed -i "s/$/date/" urine.csv > urine_2.csv
+
+
+
+sed -i "s/$/date" baby.csv
+
+sed "s/$/date" baby.csv > newbaby.csv
+
+
+echo -n 'fuck' >> testfile.txt
+
+
+
+
+
+
+sed  "s/$/fuck/" baby.csv > newbaby.csv
+
+
+
+
+
+## THIS IS THE ONE
+sed -i  "2,$ s/$/date_variable,/" baby.csv
+
+
+sed -i  "2,$ s/$/$(date '+%F')/" baby.csv
+
+
+
+
+
+
+sed "s/date_variable/$(date '+%m/%d/%Y')/" baby.csv
+
+
+
+$(date '+%F %T')/
+
+
+
+## OK BABY
+
+sed "s/date_variable/$(date '+%F')/" baby.csv
+
+sed -i "s/date_variable/$(date '+%F %T')/" baby.csv
