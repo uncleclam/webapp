@@ -1,0 +1,440 @@
+{
+    "request_info": {
+        "success": true,
+        "credits_used": 2635,
+        "credits_used_this_request": 1,
+        "credits_remaining": 1997365,
+        "credits_reset_at": "2023-03-24T17:52:39.000Z"
+    },
+    "search_parameters": {
+        "q": "pee shivers",
+        "engine": "google",
+        "google_domain": "google.com"
+    },
+    "search_metadata": {
+        "created_at": "2023-04-21T21:26:50.581Z",
+        "processed_at": "2023-04-21T21:26:55.528Z",
+        "total_time_taken": 4.95,
+        "engine_url": "https://www.google.com/search?q=pee+shivers",
+        "html_url": "https://api.serpwow.com/live/search?api_key=6521809044384F6486918BFCB59AF83D&q=pee+shivers&engine=google&google_domain=google.com&output=html",
+        "json_url": "https://api.serpwow.com/live/search?api_key=6521809044384F6486918BFCB59AF83D&q=pee+shivers&engine=google&google_domain=google.com&output=json"
+    },
+    "search_information": {
+        "original_query_yields_zero_results": false,
+        "search_tabs": [
+            {
+                "position": 1,
+                "text": "Vaizdai",
+                "link": "https://www.google.com/search?q=pee+shivers&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjEwtOG9bv-AhVDafEDHWXZBJsQ_AUoAXoECAEQAw"
+            },
+            {
+                "position": 2,
+                "text": "Vaizdo \u012fra\u0161ai",
+                "link": "https://www.google.com/search?q=pee+shivers&source=lnms&tbm=vid&sa=X&ved=2ahUKEwjEwtOG9bv-AhVDafEDHWXZBJsQ_AUoAnoECAEQBA"
+            },
+            {
+                "position": 3,
+                "text": "Naujienos",
+                "link": "https://www.google.com/search?q=pee+shivers&source=lnms&tbm=nws&sa=X&ved=2ahUKEwjEwtOG9bv-AhVDafEDHWXZBJsQ_AUoA3oECAEQBQ"
+            },
+            {
+                "position": 4,
+                "text": "\u017dem\u0117lapiai",
+                "link": "https://maps.google.com/maps?q=pee+shivers&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjEwtOG9bv-AhVDafEDHWXZBJsQ_AUoBHoECAEQBg"
+            }
+        ],
+        "total_results": 1970000,
+        "time_taken_displayed": 0.28,
+        "detected_location": "Lietuva"
+    },
+    "related_searches": [
+        {
+            "query": "do females get pee shivers",
+            "link": "https://www.google.com/search?q=Do+females+get+pee+shivers&sa=X&ved=2ahUKEwjEwtOG9bv-AhVDafEDHWXZBJsQ1QJ6BAgxEAE",
+            "type": "standard"
+        },
+        {
+            "query": "why do i shiver when i pee female",
+            "link": "https://www.google.com/search?q=Why+do+I+shiver+when+I+pee+female&sa=X&ved=2ahUKEwjEwtOG9bv-AhVDafEDHWXZBJsQ1QJ6BAg5EAE",
+            "type": "standard"
+        },
+        {
+            "query": "why do pee shivers feel good",
+            "link": "https://www.google.com/search?q=Why+do+pee+shivers+feel+good&sa=X&ved=2ahUKEwjEwtOG9bv-AhVDafEDHWXZBJsQ1QJ6BAg3EAE",
+            "type": "standard"
+        },
+        {
+            "query": "pee shivers meme",
+            "link": "https://www.google.com/search?q=Pee+shivers+Meme&sa=X&ved=2ahUKEwjEwtOG9bv-AhVDafEDHWXZBJsQ1QJ6BAg4EAE",
+            "type": "standard"
+        },
+        {
+            "query": "how common are pee shivers",
+            "link": "https://www.google.com/search?q=How+common+are+pee+shivers&sa=X&ved=2ahUKEwjEwtOG9bv-AhVDafEDHWXZBJsQ1QJ6BAg2EAE",
+            "type": "standard"
+        },
+        {
+            "query": "baby pee shivers",
+            "link": "https://www.google.com/search?q=Baby+pee+shivers&sa=X&ved=2ahUKEwjEwtOG9bv-AhVDafEDHWXZBJsQ1QJ6BAg0EAE",
+            "type": "standard"
+        },
+        {
+            "query": "pee shivers urban dictionary",
+            "link": "https://www.google.com/search?q=Pee+shivers+Urban+Dictionary&sa=X&ved=2ahUKEwjEwtOG9bv-AhVDafEDHWXZBJsQ1QJ6BAgzEAE",
+            "type": "standard"
+        },
+        {
+            "query": "is pee shivers bad",
+            "link": "https://www.google.com/search?q=Is+pee+shivers+bad&sa=X&ved=2ahUKEwjEwtOG9bv-AhVDafEDHWXZBJsQ1QJ6BAgwEAE",
+            "type": "standard"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "What causes a pee shiver?",
+            "answer": "The nervous system releases neurotransmitters in the body called catecholamines in an effort to restore blood pressure. This creates a mixed signal between the two components of the sympathetic nervous system, which causes you to shiver when you pee.",
+            "source": {
+                "link": "https://www.vinmec.com/en/news/health-news/general-health-check/why-do-you-shiver-when-urinating/",
+                "displayed_link": "https://www.vinmec.com \u203a news \u203a general-health-check",
+                "title": "Why do you shiver when urinating? - Vinmec"
+            },
+            "search": {
+                "link": "https://www.google.com/search?q=What+causes+a+pee+shiver%3F&sa=X&ved=2ahUKEwjEwtOG9bv-AhVDafEDHWXZBJsQzmd6BAgcEAY",
+                "title": "What causes a pee shiver?"
+            },
+            "block_position": 3
+        },
+        {
+            "question": "Are pee shivers normal?",
+            "answer": "Pee shivers might be due to a sudden drop in body temperature, or mixed signals in your nervous system. They are harmless. This doesn't mean you should ignore all unusual occurrences that happen during urination.",
+            "source": {
+                "link": "https://www.healthline.com/health/pee-shivers",
+                "displayed_link": "https://www.healthline.com \u203a health \u203a pee-shivers",
+                "title": "Pee Shivers Symptoms and Theories on Possible Causes"
+            },
+            "search": {
+                "link": "https://www.google.com/search?q=Are+pee+shivers+normal%3F&sa=X&ved=2ahUKEwjEwtOG9bv-AhVDafEDHWXZBJsQzmd6BAgiEAY",
+                "title": "Are pee shivers normal?"
+            },
+            "block_position": 3
+        },
+        {
+            "question": "Why do I have a weird sensation after I pee?",
+            "answer": "The most well-known and easily recognizable symptom of a UTI is pain or discomfort when urinating. Oftentimes, this pain manifests itself as a tingling or burning sensation, and such pain indicates there is bacteria in the urethra.",
+            "source": {
+                "link": "https://www.neonhealth.org/signs-you-have-a-uti-and-what-you-should-do",
+                "displayed_link": "https://www.neonhealth.org \u203a signs-you-have-a-uti-and-...",
+                "title": "SIGNS YOU HAVE A UTI AND WHAT YOU SHOULD DO"
+            },
+            "search": {
+                "link": "https://www.google.com/search?q=Why+do+I+have+a+weird+sensation+after+I+pee%3F&sa=X&ved=2ahUKEwjEwtOG9bv-AhVDafEDHWXZBJsQzmd6BAgbEAY",
+                "title": "Why do I have a weird sensation after I pee?"
+            },
+            "block_position": 3
+        },
+        {
+            "question": "Why do my hands tingle when I need to pee?",
+            "answer": "Your kidneys get rid of toxins in your blood that can hurt nerves. So when your kidneys aren't working right, your hands and feet may tingle.",
+            "source": {
+                "link": "https://www.webmd.com/a-to-z-guides/ss/slideshow-why-my-hands-feet-tingling",
+                "displayed_link": "https://www.webmd.com \u203a a-to-z-guides \u203a slideshow-wh...",
+                "title": "13 Reasons Why Your Hands and Feet are Tingling - WebMD"
+            },
+            "search": {
+                "link": "https://www.google.com/search?q=Why+do+my+hands+tingle+when+I+need+to+pee%3F&sa=X&ved=2ahUKEwjEwtOG9bv-AhVDafEDHWXZBJsQzmd6BAggEAY",
+                "title": "Why do my hands tingle when I need to pee?"
+            },
+            "block_position": 3
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Pee shivers: You know you're curious - NBC News",
+            "link": "https://www.nbcnews.com/healthmain/pee-shivers-you-know-youre-curious-688401",
+            "domain": "www.nbcnews.com",
+            "displayed_link": "https://www.nbcnews.com \u203a healthmain",
+            "snippet": "2012-04-09 \u2014 2012-04-09",
+            "prerender": false,
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zliBdFvYmxwJ:https://www.nbcnews.com/healthmain/pee-shivers-you-know-youre-curious-688401&cd=1&hl=lt&ct=clnk&gl=lt",
+            "about_this_result": {
+                "source": {
+                    "first_indexed": {
+                        "raw": "nbcnews.com pirm\u0105 kart\u0105 \u201eGoogle\u201c indeksavo seniau nei prie\u0161 de\u0161imt met\u0173"
+                    }
+                },
+                "connection_secure": {
+                    "raw": "Ry\u0161ys su \u0161ia svetaine yra <b>saugus</b>"
+                },
+                "your_search_and_this_result": [
+                    "Rezultate rodomi \u0161ie <span>paie\u0161kos terminai</span>: <b> pee</b>, <b>shivers</b>",
+                    "Su paie\u0161ka susij\u0119s <span>terminas</span> rodomas paie\u0161kos rezultate: <b>shiver</b>",
+                    "Pana\u0161u, kad \u0161is rezultatas yra susij\u0119s, nors jis teikiamas ne <span>lietuvi\u0173</span>",
+                    "Pana\u0161u, kad \u0161is rezultatas atitinka \u0161i\u0105 paie\u0161k\u0105, nors jis paprastai rodomas vykdant paie\u0161kas u\u017e \u0161ios \u0161alies rib\u0173: <span>Lietuva</span>"
+                ]
+            },
+            "date": "2012-04-09",
+            "date_utc": "2012-04-09T00:00:00.000Z",
+            "block_position": 2
+        },
+        {
+            "position": 2,
+            "title": "Pee Shivers Symptoms and Theories on Possible Causes",
+            "link": "https://www.healthline.com/health/pee-shivers",
+            "domain": "www.healthline.com",
+            "displayed_link": "https://www.healthline.com \u203a health",
+            "prerender": false,
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jUtM0X3tmekJ:https://www.healthline.com/health/pee-shivers&cd=10&hl=lt&ct=clnk&gl=lt",
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Who has pee shivers?",
+                        "link": "https://www.healthline.com/health/pee-shivers#who-has-pee-shivers"
+                    },
+                    {
+                        "title": "Drop in temperature",
+                        "link": "https://www.healthline.com/health/pee-shivers#drop-in-temperature"
+                    },
+                    {
+                        "title": "Nervous system signals",
+                        "link": "https://www.healthline.com/health/pee-shivers#nervous-system-signals"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "first_indexed": {
+                        "raw": "healthline.com pirm\u0105 kart\u0105 \u201eGoogle\u201c indeksavo seniau nei prie\u0161 de\u0161imt met\u0173"
+                    }
+                },
+                "connection_secure": {
+                    "raw": "Ry\u0161ys su \u0161ia svetaine yra <b>saugus</b>"
+                },
+                "your_search_and_this_result": [
+                    "Rezultate rodomi \u0161ie <span>paie\u0161kos terminai</span>: <b> pee</b>, <b>shivers</b>",
+                    "\u0160iame rezultate yra <span>vaizd\u0173</span>, susijusi\u0173 su paie\u0161ka",
+                    "Pana\u0161u, kad \u0161is rezultatas yra susij\u0119s, nors jis teikiamas ne <span>lietuvi\u0173</span>",
+                    "Pana\u0161u, kad \u0161is rezultatas atitinka \u0161i\u0105 paie\u0161k\u0105, nors jis paprastai rodomas vykdant paie\u0161kas u\u017e \u0161ios \u0161alies rib\u0173: <span>Lietuva</span>"
+                ]
+            },
+            "block_position": 4
+        },
+        {
+            "position": 3,
+            "title": "Post-micturition convulsion syndrome - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Post-micturition_convulsion_syndrome",
+            "domain": "en.wikipedia.org",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Post...",
+            "snippet": "In neurourology, post-micturition convulsion syndrome (PMCS), also known informally as pee shivers, is the experience of shivering during or after urination.",
+            "prerender": false,
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:16aEZoZ9FZsJ:https://en.wikipedia.org/wiki/Post-micturition_convulsion_syndrome&cd=11&hl=lt&ct=clnk&gl=lt",
+            "about_this_result": {
+                "source": {
+                    "name": "Vikipedija",
+                    "link": "https://lt.wikipedia.org/wiki/Vikipedija",
+                    "description": "Vikipedija \u2013 interneto enciklopedija. Joje paskelbta daugiau nei 55 mln. straipsni\u0173 306 kalbomis. 2020 m. Vikipedij\u0105 kas m\u0117nes\u012f skirtingais \u012fnagiais aplank\u0117 1,5 mlrd. lankytoj\u0173 bei per\u017ei\u016br\u0117jo 15 mlrd. puslapi\u0173."
+                },
+                "connection_secure": {
+                    "raw": "Ry\u0161ys su \u0161ia svetaine yra <b>saugus</b>"
+                },
+                "your_search_and_this_result": [
+                    "Rezultate rodomi \u0161ie <span>paie\u0161kos terminai</span>: <b> pee</b>, <b>shivers</b>",
+                    "Kitos svetain\u0117s, kuriose yra j\u016bs\u0173 paie\u0161kos terminai, <span>nukreipia</span> \u012f \u0161\u012f rezultat\u0105",
+                    "Pana\u0161u, kad \u0161is rezultatas yra susij\u0119s, nors jis teikiamas ne <span>lietuvi\u0173</span>",
+                    "Pana\u0161u, kad \u0161is rezultatas atitinka \u0161i\u0105 paie\u0161k\u0105, nors jis paprastai rodomas vykdant paie\u0161kas u\u017e \u0161ios \u0161alies rib\u0173: <span>Lietuva</span>"
+                ]
+            },
+            "block_position": 5
+        },
+        {
+            "position": 4,
+            "title": "Why do you shiver when urinating? - Vinmec",
+            "link": "https://www.vinmec.com/en/news/health-news/general-health-check/why-do-you-shiver-when-urinating/",
+            "domain": "www.vinmec.com",
+            "displayed_link": "https://www.vinmec.com \u203a health-news",
+            "snippet": "When you pee, it's possible that the sudden spike in catecholamines makes you feel shivery. The nervous system releases neurotransmitters in the body called\u00a0...",
+            "prerender": false,
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jViarYNYxDgJ:https://www.vinmec.com/en/news/health-news/general-health-check/why-do-you-shiver-when-urinating/&cd=12&hl=lt&ct=clnk&gl=lt",
+            "about_this_result": {
+                "source": {
+                    "first_indexed": {
+                        "raw": "vinmec.com pirm\u0105 kart\u0105 \u201eGoogle\u201c indeksavo seniau nei prie\u0161 de\u0161imt met\u0173"
+                    }
+                },
+                "connection_secure": {
+                    "raw": "Ry\u0161ys su \u0161ia svetaine yra <b>saugus</b>"
+                },
+                "your_search_and_this_result": [
+                    "Rezultate rodomi \u0161ie <span>paie\u0161kos terminai</span>: <b> pee</b>, <b>shivers</b>",
+                    "Su paie\u0161ka susij\u0119s <span>terminas</span> rodomas paie\u0161kos rezultate: <b>shiver</b>",
+                    "Pana\u0161u, kad \u0161is rezultatas yra susij\u0119s, nors jis teikiamas ne <span>lietuvi\u0173</span>",
+                    "Pana\u0161u, kad \u0161is rezultatas atitinka \u0161i\u0105 paie\u0161k\u0105, nors jis paprastai rodomas vykdant paie\u0161kas u\u017e \u0161ios \u0161alies rib\u0173: <span>Lietuva</span>"
+                ]
+            },
+            "block_position": 6
+        },
+        {
+            "position": 5,
+            "title": "Why Do Some of Us Shiver When We Pee? - Live Science",
+            "link": "https://www.livescience.com/63197-why-pee-shivers.html",
+            "domain": "www.livescience.com",
+            "displayed_link": "https://www.livescience.com \u203a 63197...",
+            "prerender": false,
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:yPlxoX9bvu0J:https://www.livescience.com/63197-why-pee-shivers.html&cd=13&hl=lt&ct=clnk&gl=lt",
+            "about_this_result": {
+                "source": {
+                    "first_indexed": {
+                        "raw": "livescience.com pirm\u0105 kart\u0105 \u201eGoogle\u201c indeksavo seniau nei prie\u0161 de\u0161imt met\u0173"
+                    }
+                },
+                "connection_secure": {
+                    "raw": "Ry\u0161ys su \u0161ia svetaine yra <b>saugus</b>"
+                },
+                "your_search_and_this_result": [
+                    "Rezultate rodomi \u0161ie <span>paie\u0161kos terminai</span>: <b> pee</b>, <b>shivers</b>",
+                    "Su j\u016bs\u0173 paie\u0161ka susij\u0119 <span>terminai</span> rodomi rezultate: <b> peeing</b>, <b>shiver</b>",
+                    "\u0160iame rezultate yra <span>vaizd\u0173</span>, susijusi\u0173 su paie\u0161ka",
+                    "Kitos svetain\u0117s, kuriose yra j\u016bs\u0173 paie\u0161kos terminai, <span>nukreipia</span> \u012f \u0161\u012f rezultat\u0105",
+                    "Pana\u0161u, kad \u0161is rezultatas yra susij\u0119s, nors jis teikiamas ne <span>lietuvi\u0173</span>",
+                    "Pana\u0161u, kad \u0161is rezultatas atitinka \u0161i\u0105 paie\u0161k\u0105, nors jis paprastai rodomas vykdant paie\u0161kas u\u017e \u0161ios \u0161alies rib\u0173: <span>Lietuva</span>"
+                ]
+            },
+            "block_position": 7
+        },
+        {
+            "position": 6,
+            "title": "A Doctor Explains Why Men Sometimes Shiver After They ...",
+            "link": "https://www.menshealth.com/health/a35922304/pee-shiver-men-urination-doctor-explains/",
+            "domain": "www.menshealth.com",
+            "displayed_link": "https://www.menshealth.com \u203a health",
+            "prerender": false,
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:PT6W8sLKoDgJ:https://www.menshealth.com/health/a35922304/pee-shiver-men-urination-doctor-explains/&cd=14&hl=lt&ct=clnk&gl=lt",
+            "about_this_result": {
+                "source": {
+                    "first_indexed": {
+                        "raw": "menshealth.com pirm\u0105 kart\u0105 \u201eGoogle\u201c indeksavo seniau nei prie\u0161 de\u0161imt met\u0173"
+                    }
+                },
+                "connection_secure": {
+                    "raw": "Ry\u0161ys su \u0161ia svetaine yra <b>saugus</b>"
+                },
+                "your_search_and_this_result": [
+                    "Rezultate rodomi \u0161ie <span>paie\u0161kos terminai</span>: <b> pee</b>, <b>shivers</b>",
+                    "Su j\u016bs\u0173 paie\u0161ka susij\u0119 <span>terminai</span> rodomi rezultate: <b> urination</b>, <b>shiver</b>",
+                    "\u0160iame rezultate yra <span>vaizd\u0173</span>, susijusi\u0173 su paie\u0161ka",
+                    "Pana\u0161u, kad \u0161is rezultatas yra susij\u0119s, nors jis teikiamas ne <span>lietuvi\u0173</span>",
+                    "Pana\u0161u, kad \u0161is rezultatas atitinka \u0161i\u0105 paie\u0161k\u0105, nors jis paprastai rodomas vykdant paie\u0161kas u\u017e \u0161ios \u0161alies rib\u0173: <span>Lietuva</span>"
+                ]
+            },
+            "block_position": 8
+        },
+        {
+            "position": 7,
+            "title": "Pee Shivers - YouTube",
+            "link": "https://www.youtube.com/watch?v=Eh74UHogvEk",
+            "domain": "www.youtube.com",
+            "displayed_link": "https://www.youtube.com \u203a watch",
+            "prerender": false,
+            "about_this_result": {
+                "source": {
+                    "first_indexed": {
+                        "raw": "\u0160is rezultatas pateikiamas i\u0161 www.youtube.com"
+                    }
+                },
+                "connection_secure": {
+                    "raw": "Ry\u0161ys su \u0161ia svetaine yra <b>saugus</b>"
+                },
+                "your_search_and_this_result": [
+                    "Rezultate rodomi \u0161ie <span>paie\u0161kos terminai</span>: <b> pee</b>, <b>shivers</b>",
+                    "Su j\u016bs\u0173 paie\u0161ka susij\u0119 <span>terminai</span> rodomi rezultate: <b> peeing</b>, <b>shiver</b>",
+                    "Pana\u0161u, kad \u0161is rezultatas yra susij\u0119s, nors jis teikiamas ne <span>lietuvi\u0173</span>",
+                    "Pana\u0161u, kad \u0161is rezultatas atitinka \u0161i\u0105 paie\u0161k\u0105, nors jis paprastai rodomas vykdant paie\u0161kas u\u017e \u0161ios \u0161alies rib\u0173: <span>Lietuva</span>"
+                ]
+            },
+            "thumbnail": true,
+            "thumbnail_image": "data:image/jpeg;base64,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",
+            "block_position": 9
+        },
+        {
+            "position": 8,
+            "title": "Why Do I Shiver When I Pee? - YouTube",
+            "link": "https://www.youtube.com/watch?v=1XkW8f_l7L8",
+            "domain": "www.youtube.com",
+            "displayed_link": "https://www.youtube.com \u203a watch",
+            "prerender": false,
+            "about_this_result": {
+                "source": {
+                    "first_indexed": {
+                        "raw": "\u0160is rezultatas pateikiamas i\u0161 www.youtube.com"
+                    }
+                },
+                "connection_secure": {
+                    "raw": "Ry\u0161ys su \u0161ia svetaine yra <b>saugus</b>"
+                },
+                "your_search_and_this_result": [
+                    "Rezultate rodomi \u0161ie <span>paie\u0161kos terminai</span>: <b> pee</b>, <b>shivers</b>",
+                    "Su j\u016bs\u0173 paie\u0161ka susij\u0119 <span>terminai</span> rodomi rezultate: <b> peeing</b>, <b>shiver</b>",
+                    "Kitos svetain\u0117s, kuriose yra j\u016bs\u0173 paie\u0161kos terminai, <span>nukreipia</span> \u012f \u0161\u012f rezultat\u0105",
+                    "Pana\u0161u, kad \u0161is rezultatas yra susij\u0119s, nors jis teikiamas ne <span>lietuvi\u0173</span>",
+                    "Pana\u0161u, kad \u0161is rezultatas atitinka \u0161i\u0105 paie\u0161k\u0105, nors jis paprastai rodomas vykdant paie\u0161kas u\u017e \u0161ios \u0161alies rib\u0173: <span>Lietuva</span>"
+                ]
+            },
+            "thumbnail": true,
+            "thumbnail_image": "https://i.ytimg.com/vi/1XkW8f_l7L8/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3k8eIINZ5LedI75YTkgut2UWDVD7w",
+            "block_position": 10
+        },
+        {
+            "position": 9,
+            "title": "pee shivers - Urban Dictionary",
+            "link": "https://www.urbandictionary.com/define.php?term=pee%20shivers",
+            "domain": "www.urbandictionary.com",
+            "displayed_link": "https://www.urbandictionary.com \u203a d...",
+            "snippet": "When a male urinates into a toilet, and while doing so receives chills through the body in which your body shivers. It may affect aim of the urine stream into a\u00a0...",
+            "prerender": false,
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:dvDVnmmo3JAJ:https://www.urbandictionary.com/define.php%3Fterm%3Dpee%2520shivers&cd=17&hl=lt&ct=clnk&gl=lt",
+            "about_this_result": {
+                "source": {
+                    "first_indexed": {
+                        "raw": "urbandictionary.com pirm\u0105 kart\u0105 \u201eGoogle\u201c indeksavo seniau nei prie\u0161 de\u0161imt met\u0173"
+                    }
+                },
+                "connection_secure": {
+                    "raw": "Ry\u0161ys su \u0161ia svetaine yra <b>saugus</b>"
+                },
+                "your_search_and_this_result": [
+                    "Rezultate rodomi \u0161ie <span>paie\u0161kos terminai</span>: <b> pee</b>, <b>shivers</b>",
+                    "Su paie\u0161ka susij\u0119s <span>terminas</span> rodomas paie\u0161kos rezultate: <b>urine</b>",
+                    "Pana\u0161u, kad \u0161is rezultatas yra susij\u0119s, nors jis teikiamas ne <span>lietuvi\u0173</span>",
+                    "Pana\u0161u, kad \u0161is rezultatas atitinka \u0161i\u0105 paie\u0161k\u0105, nors jis paprastai rodomas vykdant paie\u0161kas u\u017e \u0161ios \u0161alies rib\u0173: <span>Lietuva</span>"
+                ]
+            },
+            "block_position": 11
+        },
+        {
+            "position": 10,
+            "title": "Pee shivers: Doctor explains why you get the spine- ...",
+            "link": "https://www.dailystar.co.uk/health/pee-shivers-doctor-explains-you-28276330",
+            "domain": "www.dailystar.co.uk",
+            "displayed_link": "https://www.dailystar.co.uk \u203a health",
+            "prerender": false,
+            "about_this_result": {
+                "source": {
+                    "first_indexed": {
+                        "raw": "dailystar.co.uk pirm\u0105 kart\u0105 \u201eGoogle\u201c indeksavo seniau nei prie\u0161 de\u0161imt met\u0173"
+                    }
+                },
+                "connection_secure": {
+                    "raw": "Ry\u0161ys su \u0161ia svetaine yra <b>saugus</b>"
+                },
+                "your_search_and_this_result": [
+                    "Rezultate rodomi \u0161ie <span>paie\u0161kos terminai</span>: <b> pee</b>, <b>shivers</b>",
+                    "Su j\u016bs\u0173 paie\u0161ka susij\u0119 <span>terminai</span> rodomi rezultate: <b> peeing</b>, <b>shiver</b>",
+                    "\u0160iame rezultate yra <span>vaizd\u0173</span>, susijusi\u0173 su paie\u0161ka",
+                    "Pana\u0161u, kad \u0161is rezultatas yra susij\u0119s, nors jis teikiamas ne <span>lietuvi\u0173</span>",
+                    "Pana\u0161u, kad \u0161is rezultatas atitinka \u0161i\u0105 paie\u0161k\u0105, nors jis paprastai rodomas vykdant paie\u0161kas u\u017e \u0161ios \u0161alies rib\u0173: <span>Lietuva</span>"
+                ]
+            },
+            "block_position": 12
+        }
+    ]
+}
