@@ -21,7 +21,7 @@ for idx, row in df.iterrows():
     query = row["query"] 
     url="https://api.serpwow.com/search"
     payload = {
-        "api_key": "6521809044384F6486918BFCB59AF83D",
+        "api_key": "7B8A01FF4547497FA11B152D4400B2F9",
         "q": query,
         "engine": "google",
         "google_domain": "google.com"
