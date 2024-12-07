@@ -1,7 +1,7 @@
 #!/bin/sh
 
  curl -L --get https://api.serpwow.com/search \
-    -d api_key="6521809044384F6486918BFCB59AF83D" \
+    -d api_key="7B8A01FF4547497FA11B152D4400B2F9" \
     -d q="horse+bath" \
     -d engine="google" \
     -d google_domain="google.com" \
