@@ -8,7 +8,7 @@
     -d page="1" \
     -d num="10" \
         -o urination.json 
-
+hotdog
 #PARSE JSON AND EXPORT CSV
 python python/weeing.py
 
